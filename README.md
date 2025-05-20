@@ -3,7 +3,7 @@
 
 - 📫 How to reach me:
       jessefoster33@gmail.com
-      https://www.linkedin.com/in/jesse-foster-digital/
+      [https://www.linkedin.com/in/jesse-foster-digital/](https://www.linkedin.com/in/emma-foster-digital/)
 
 <!---
 jessefoster33/jessefoster33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
